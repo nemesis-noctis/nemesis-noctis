@@ -21,7 +21,7 @@ Atualmente focando em frameworks e tecnologias em Python e Linux.
 
 # 🗓️ Status GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=NemesisNoctis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NemesisNoctis&theme=tokyonight&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nemesis-noctis&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NemesisNoctis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <br>
