@@ -5,7 +5,9 @@
 
 > "Talk is cheap. Show me the code." — Linus Torvalds
 
-Estudante de ADS na UNINTER. Desenvolvedor focado em Python, movido por lógica, análise e precisão. Entusiasta de software livre e Linux.
+Estudante de ADS na UNINTER. <br>
+Desenvolvedor focado em Python, movido por lógica, análise e precisão. <br>
+Entusiasta de software livre e Linux.
 <br><br>
 
 
